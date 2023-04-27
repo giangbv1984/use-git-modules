@@ -1,3 +1,4 @@
-[submodule "src/components/UI"]
-	path = src/components/UI
+
+[submodule "src/components/ui"]
+	path = src/components/ui
 	url = https://github.com/giangbv1984/ui-libraries.git
